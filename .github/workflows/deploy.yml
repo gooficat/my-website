@@ -1,0 +1,20 @@
+name: Deploy to OCI Server
+
+on:
+  push:
+    branches: [ main ]
+
+
+jobs:
+  deploy:
+    runs-on: ubuntu-24.04
+    steps:
+     - name: Deploy to OCI via SSH
+       uses: appleboy/ssh-action@v1.0.3
+       with:
+        host: ${{ secrets.OCI_HOST }}
+        username: ${{ secrets.OCI_USER }}
+        key: ${{ secrets.OCI_KEY }}
+        script: |
+          cd /var/www
+          sudo git pull origin main
