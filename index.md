@@ -1,8 +1,11 @@
 # Welcome to my website
 
-> ## Important Notice
->
+## Important Notice
+
 > This website uses markdown to display formatted content. This serves as an alternative to traditional HTML-based websites. You will be able to view this website normally with plain text, but it is recommended that you use a markdown viewer, for example as a plugin / extension on your web browser, in order to properly utilize images and hyperlinks.
+> You can also use a command-line tool such as `glow`. For example:
+
+`curl -s https://gooficat.duckdns.org | glow -`
 
 ## About Me
 
