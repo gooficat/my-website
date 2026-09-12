@@ -19,3 +19,8 @@ I am currently working on my own software ecosystem for the x86_64 especially.
 - [C Compiler](https://github.com/gooficat/nanocc)
 - [Etsy shop](https://sabrimakes.etsy.com)
 - [Robot Car (not my website, but the car is my design, and the tutorial is mine)](https://airoboticsclub.com/building-a-robot-car/)
+
+
+## Posts
+
+[Learn C](./posts/learnc.md)
