@@ -13,6 +13,9 @@ I do electronics, 3D printing, FPV drones, and computer programming, specificall
 
 I am currently working on my own software ecosystem for the x86_64 especially.
 
+## Send me Bitcoin:
+`bc1qnynxp2fzds4dcl2ct0hy34gvx6tuwxgqygaq2t`
+
 ## Things by me (lots is missing)
 
 - [Survey Website](https://picosurveys.com)
