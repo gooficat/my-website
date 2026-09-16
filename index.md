@@ -26,6 +26,6 @@ I am currently working on my own software ecosystem for the x86_64 especially.
 
 ## Posts
 
-[Learn C](./posts/learnc.md)
-
-[3D Printing Information, Mods, Deals (Especially for Enders)](./posts/3dpdeals.md)
+- [Learn C](./posts/learnc.md)
+- [3D Printing Information, Mods, Deals (Especially for Enders)](./posts/3dpdeals.md)
+- [Go here if you don't have any hobbies or feel like you're wasting time](./posts/hobbies.md)
