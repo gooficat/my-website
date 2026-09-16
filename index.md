@@ -28,4 +28,4 @@ I am currently working on my own software ecosystem for the x86_64 especially.
 
 [Learn C](./posts/learnc.md)
 
-[3D Printing Deals (Especially for Ender mods)](./posts/3dpdeals.md)
+[3D Printing Information, Mods, Deals (Especially for Enders)](./posts/3dpdeals.md)
